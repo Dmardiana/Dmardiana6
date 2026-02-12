@@ -28,15 +28,9 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmardiana6&show_icons=true&theme=radical)
-
 ## 🚀 Current Focus
 - Machine Learning Projects
 - Deep Learning Architectures
 - AI Model Deployment
-- Data Analysis & Visualization
-
----
 
 ![AI GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndodmdjM3ZjNjJ3Y3UzYmtrYmNmbXk5cXowdG5xcTN3aXRiOXV4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G6N0pDDgDpLjUvNoyQ/giphy.gif)
